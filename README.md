@@ -1,1 +1,3 @@
-# blockchain
+# Blockchain
+
+#### Simple blockchain code
